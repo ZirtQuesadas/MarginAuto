@@ -1,6 +1,7 @@
 div {
 	width: 220px ;
 	background-color: #ffffff;
+    opacity: 0.6;
 	padding: 40px; 
 	border: 15px solid yellow; 
 	border-radius: 3px;
