@@ -1,0 +1,26 @@
+div {
+	width: 220px ;
+	background-color: #ffffff;
+	padding: 40px; 
+	border: 15px solid yellow; 
+	border-radius: 3px;
+		}
+.center
+{
+    top:200;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.izq
+{	
+	margin: 30px
+}
+
+p{
+	color: #000000;
+	margin: 10px;
+ }
+
+/* Escribe aqui tu CSS */
